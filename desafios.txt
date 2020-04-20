@@ -1,0 +1,17 @@
+1 – Criar o component Artist
+
+    Exibir ele na busca
+
+    Exibir ele nos favoritos
+
+2 – Criar a página Artist
+
+    Mostrar os detalhes do artista
+
+    Mostrar todas as músicas
+
+    Mostrar todos os albums
+
+3 – Permitir o favorite em Artist e Album
+
+4 – (Desafio Hard) Incluir um player mais robusto: https://github.com/lhz516/react-h5-audio-player#readme
